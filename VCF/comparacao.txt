@@ -1,0 +1,5 @@
+Gabarito (verdade.vcf):            114 variantes
+Chamadas pelo bcftools:            114 variantes
+Coincidentes SEM normalizar:       106  (indels escritos de forma diferente)
+Coincidentes APOS bcftools norm:   114
+Genotipo (0/1 x 1/1) correto:      114
